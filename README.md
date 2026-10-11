@@ -4,4 +4,4 @@ IT Technical Recruiter. I hire for software and technical roles, and I build web
 
 Currently building **Shortlist**, a candidate submission tracker for staffing agencies, based on how recruiting works day to day.
 
-**Looking for your next role in tech?** Message me on [LinkedIn](https://www.linkedin.com/in/bhavya-jain14).
+**Open to new opportunities** in tech recruiting and talent acquisition. If you're hiring, or you're a developer looking for your next role, let's connect on [LinkedIn](https://www.linkedin.com/in/bhavya-jain14).
